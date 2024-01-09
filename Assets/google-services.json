@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1061059906846",
+    "firebase_url": "https://micheal-olise-default-rtdb.firebaseio.com",
+    "project_id": "micheal-olise",
+    "storage_bucket": "micheal-olise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061059906846:android:7e6d067d14528aa3650d0f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Ahihi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEpw1zUlTKLYdfitZwtmR-GiKzIBjQ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061059906846:android:7f39d393c31c1785650d0f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TestFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEpw1zUlTKLYdfitZwtmR-GiKzIBjQ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
